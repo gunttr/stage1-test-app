@@ -16,6 +16,7 @@ pydantic_core==2.50.4
 Pygments==2.21.0
 pytest==9.2.0
 python-json-logger==4.2.0
+ruff==0.17.4
 starlette==1.10.0
 truststore==0.10.5
 typing-inspection==0.4.5
